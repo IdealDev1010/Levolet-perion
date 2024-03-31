@@ -1,3 +1,4 @@
+import React from 'react';
 import { getCollectionProducts } from 'lib/shopify';
 import Link from 'next/link';
 import { GridTileImage } from './grid/tile';
